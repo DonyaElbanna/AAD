@@ -1,1 +1,2 @@
-// Line 1
+console.log('Hello from Donya');
+var num = 1;
